@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+"""
+A class that Compare 2 squares
+"""
 
 class Square:
     """defines a square"""
