@@ -1,11 +1,12 @@
 #!/usr/bin/python3
+"""A square class """
 
 
 class Square:
-    """A square class docstring"""
+    """Represents a square"""
 
     def __init__(self, size):
-        """Initializing
+        """Initializing this square class
         Args: size - represnets the size of the square defined
         """
 
