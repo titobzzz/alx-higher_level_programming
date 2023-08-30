@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+A class that access and update private attribute
+"""
 
 
 class Square:

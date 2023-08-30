@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+A class that checks the validity of a squres size
+"""
 
 
 class Square:

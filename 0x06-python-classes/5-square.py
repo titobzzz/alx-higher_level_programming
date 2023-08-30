@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+A class thqat prints a square
+"""
 
 
 class Square:
