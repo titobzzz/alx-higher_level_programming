@@ -2,7 +2,7 @@
 
 
 class Square:
-    """A square"""
+    """A square class docstring"""
 
     def __init__(self, size):
         """Initializing
