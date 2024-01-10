@@ -1,6 +1,6 @@
 #!/usr/bin/node
 /**
- * Check the parameters provided
+ * Check parameters provided
  */
 class Rectangle {
   constructor (w, h) {
