@@ -1,4 +1,7 @@
 #!/usr/bin/node
+/*
+ * iimport data
+ */
 const dict = require('./101-data.js').dict;
 
 const newDict = {};

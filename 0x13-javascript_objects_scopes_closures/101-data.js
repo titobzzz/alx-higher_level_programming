@@ -1,4 +1,7 @@
 #!/usr/bin/node
+/*
+ * export dict
+ */
 exports.dict = {
   89: 1,
   90: 2,
