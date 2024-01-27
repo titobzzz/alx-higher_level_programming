@@ -1,9 +1,12 @@
 #!/usr/bin/python3
-""" this fetches https://alx-intranet.hbtn.io/status."""
+""" 
+this code fetches https://alx-intranet.hbtn.io/status.
+"""
 import urllib.request
 
 
 if __name__ == "__main__":
+    #feactches a url
     request = urllib.request.Request("https://alx-intranet.hbtn.io/status")
     with urllib.request.urlopen(request) as response:
         body = response.read()

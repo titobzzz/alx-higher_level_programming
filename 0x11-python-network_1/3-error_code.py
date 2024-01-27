@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""Sends a request to a given URL and displays the response body.
-- Handles HTTP errors.
+"""
+Sends a request to a given URL and displays the response body.
+Handles HTTP errors.
 """
 import sys
 import urllib.error
